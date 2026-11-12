@@ -6,9 +6,9 @@ Andjela Petrovic RA 207/2024
 
 Desktop aplikacija za upravu sajma knjiga
 
-##Podela posla
+**Podela posla**
 
-###Student 1 - Ivana Milinkovic
+**Student 1 - Ivana Milinkovic**
 
 - #posetilac, #kupovina, #izdavac
 - #menu_bar, #status_bar
@@ -21,7 +21,7 @@ Desktop aplikacija za upravu sajma knjiga
 
 
 
-###Student 2 - Andjela Petrovic
+**Student 2 - Andjela Petrovic**
 
 - #autor, #knjiga, #adresa
 - #glavni_prozor, #toolbar
@@ -33,5 +33,5 @@ Desktop aplikacija za upravu sajma knjiga
 - #posetilac_autori, #izdavac_knjige, #izdavac_autori
 
 
-###Zajedno
+**Zajedno**
 - #lokalizacija
