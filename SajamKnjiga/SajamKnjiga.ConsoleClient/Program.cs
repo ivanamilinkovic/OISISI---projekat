@@ -10,8 +10,12 @@ namespace SajamKnjiga.ConsoleClient
             Console.OutputEncoding = Encoding.UTF8;
 
             PosetilacRepository posetilacRepository = new PosetilacRepository();
+            AutorRepository autorRepository = new AutorRepository();
+            KnjigaRepository knjigaRepository = new KnjigaRepository();
 
             PosetilacKonzola posetilacKonzola = new PosetilacKonzola(posetilacRepository);
+            AutorKonzola autorKonzola = new AutorKonzola(autorRepository);
+            KnjigaKonzola knjigaKonzola = new KnjigaKonzola(knjigaRepository);
 
             while (true)
             {
@@ -30,8 +34,8 @@ namespace SajamKnjiga.ConsoleClient
                     case 1: posetilacKonzola.Meni(); break;
                     case 2: Console.WriteLine("Još nije implementirano."); break;
                     case 3: Console.WriteLine("Još nije implementirano."); break;
-                    case 4: Console.WriteLine("Još nije implementirano."); break;
-                    case 5: Console.WriteLine("Još nije implementirano."); break;
+                    case 4: autorKonzola.Meni(); break;
+                    case 5: knjigaKonzola.Meni(); break;
                     case 0: return;
                 }
             }
