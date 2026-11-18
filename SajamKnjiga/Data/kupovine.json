@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "PosetilacId": 1,
+    "KnjigaId": 1,
+    "DatumKupovine": "2025-11-10T00:00:00",
+    "Ocena": 5,
+    "Komentar": "Odlicno"
+  },
+  {
+    "Id": 2,
+    "PosetilacId": 1,
+    "KnjigaId": 2,
+    "DatumKupovine": "2025-11-11T00:00:00",
+    "Ocena": 4,
+    "Komentar": ""
+  }
+]

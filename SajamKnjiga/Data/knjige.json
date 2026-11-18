@@ -1,0 +1,45 @@
+[
+  {
+    "Id": 1,
+    "Isbn": "978-86-1-000001",
+    "Naziv": "Na Drini cuprija",
+    "Zanr": "Roman",
+    "GodinaIzdanja": 1945,
+    "Cena": 1200,
+    "BrojStrana": 350,
+    "IzdavacId": null,
+    "AutoriIds": [],
+    "KupciIds": [
+      1
+    ],
+    "ListaZeljaIds": []
+  },
+  {
+    "Id": 2,
+    "Isbn": "978-86-1-000002",
+    "Naziv": "Prokleta avlija",
+    "Zanr": "Roman",
+    "GodinaIzdanja": 1954,
+    "Cena": 900,
+    "BrojStrana": 150,
+    "IzdavacId": null,
+    "AutoriIds": [],
+    "KupciIds": [
+      1
+    ],
+    "ListaZeljaIds": []
+  },
+  {
+    "Id": 3,
+    "Isbn": "978-86-000003",
+    "Naziv": "Trazim pomilovanje",
+    "Zanr": "poezija",
+    "GodinaIzdanja": 1964,
+    "Cena": 800,
+    "BrojStrana": 120,
+    "IzdavacId": null,
+    "AutoriIds": [],
+    "KupciIds": [],
+    "ListaZeljaIds": []
+  }
+]

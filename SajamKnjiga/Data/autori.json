@@ -1,0 +1,36 @@
+[
+  {
+    "Id": 1,
+    "Ime": "Ivo",
+    "Prezime": "Andric",
+    "DatumRodjenja": "1892-10-09T00:00:00",
+    "Adresa": {
+      "Ulica": "Prote Mateje",
+      "Broj": "8",
+      "Grad": "Beograd",
+      "Drzava": "Srbija"
+    },
+    "Telefon": "0601111111",
+    "Email": "ivoadric@gmail.com",
+    "BrojLicneKarte": "09109825",
+    "GodineIskustva": 40,
+    "KnjigeIds": []
+  },
+  {
+    "Id": 2,
+    "Ime": "Desanka",
+    "Prezime": "Maksimovic",
+    "DatumRodjenja": "1898-05-16T00:00:00",
+    "Adresa": {
+      "Ulica": "Bulevar kralja Aleksandra",
+      "Broj": "10",
+      "Grad": "Beograd",
+      "Drzava": "Srbija"
+    },
+    "Telefon": "0602222547",
+    "Email": "desankadesa@gmail.com",
+    "BrojLicneKarte": "1605898523",
+    "GodineIskustva": 20,
+    "KnjigeIds": []
+  }
+]

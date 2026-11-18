@@ -1,0 +1,45 @@
+[
+  {
+    "Id": 1,
+    "Ime": "Marko",
+    "Prezime": "Markovic",
+    "DatumRodjenja": "2006-05-08T00:00:00",
+    "Adresa": {
+      "Ulica": "Futoska",
+      "Broj": "53",
+      "Grad": "Novi Sad",
+      "Drzava": "Srbija"
+    },
+    "KontaktTelefon": "065125394",
+    "Email": "marko@gmail.com",
+    "BrojClanskeKarte": "CK-3-2024",
+    "TrenutnaGodinaClanstva": 1,
+    "Status": "R",
+    "ProsecnaOcena": 4.5,
+    "KupovineIds": [
+      1,
+      2
+    ],
+    "ListaZeljaIds": []
+  },
+  {
+    "Id": 2,
+    "Ime": "Ivana",
+    "Prezime": "Milinkovic",
+    "DatumRodjenja": "2004-05-08T00:00:00",
+    "Adresa": {
+      "Ulica": "Futoska",
+      "Broj": "117",
+      "Grad": "Novi Sad",
+      "Drzava": "Srbija"
+    },
+    "KontaktTelefon": "0659446905",
+    "Email": "ivanamil04@gmail.com",
+    "BrojClanskeKarte": "CK-45-2025",
+    "TrenutnaGodinaClanstva": 2,
+    "Status": "V",
+    "ProsecnaOcena": 0,
+    "KupovineIds": [],
+    "ListaZeljaIds": []
+  }
+]
